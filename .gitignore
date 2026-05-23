@@ -1,0 +1,12 @@
+checkpoints/
+exported/*.pt2
+exported/*.onnx
+quantized/*.onnx
+genie_bundle/*.bin
+genie_bundle/tokenizer.json
+aihub/job_ids.json
+venv/
+executorch/
+__pycache__/
+*.pyc
+logs/*.log
